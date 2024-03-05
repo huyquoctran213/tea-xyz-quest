@@ -1,9 +1,9 @@
 {
-  "name": "@huyquoctran213/tea-xyz-quest",
+  "name": "@huytran/tea-xyz-quest",
   "version": "1.0.0",
   "description": "Quest for tea.xyz",
   "main": "index.js",
-  "author": "@huyquoctran213",
-  "repository": "https://github.com/huyquoctran213/tea-xyz-quest",
+  "author": "@huytran",
+  "repository": "https://github.com/huytran/tea-xyz-quest",
   "license": "ISC"
 }
